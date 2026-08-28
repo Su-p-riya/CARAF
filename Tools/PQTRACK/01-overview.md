@@ -20,7 +20,7 @@ PQC readiness should be evaluated during the **inherent risk assessment** phase 
 
 To get the best out of PQTRACK, please read through the following sections to fully understand this tool. After that (or if you are short on time), you can download the [spreadsheet here](../../Resources/PQTRACK-Workbook.xlsx) and watch the demo video below.
 
-https://github.com/user-attachments/assets/41b775c3-ba85-47c2-8c60-ae2b26ad6d15
+https://github.com/user-attachments/assets/991f7207-1730-4108-9b66-c3d27f848a5c
 
 ---
 
